@@ -1,0 +1,148 @@
+/*
+thedogza temp gentelella
+*/
+.second_top_nav{
+  background-color:#FFF !important;
+  border-bottom: 1px solid #cbd1d8 !important;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+  padding-left:15px;
+  margin-left: -20px;
+  margin-right: -20px;
+  height: 100px;
+}
+.panel_breadcrumb {
+  font-size: 12px !important;
+  padding-top:10px !important;
+}
+.x_panel {
+  transition: none !important;
+}
+.panel_hide{
+  display: none;
+}
+
+.x_panel_line{
+      
+  padding: 5px 0px !important; 
+  border: 0px solid #E6E9ED !important;
+  border-top: 2px solid #E6E9ED !important;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.x_panel_line tr>td ul.parsley-errors-list {
+  position: relative !important;
+}
+
+.form-horizontal .control-label {
+  padding-top: 15px !important;
+}
+
+ul.parsley-errors-list {
+  position: absolute;
+}
+
+.modal-vb{
+  width: 90%;
+}
+
+/* ------------ for search ------------ */
+.top_search input.search{
+  background-color: rgba(91, 192, 222, .1) !important;
+  border: 1px solid #cbd1d8 !important;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+}
+
+.top_search input.search-disabled{
+
+  background-color:#fff !important;
+  border: 1px solid #e5e8eb !important;
+  box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1) !important;
+  -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1) !important;
+}
+
+.top_search .btn-info {
+  color:#fff !important;
+}
+/* ------------ end for search ----------------*/
+
+.datetimepicker input[readonly]{
+  background-color:#FFF !important;
+}
+
+.input-group{
+  margin-bottom: 0px !important;
+}
+
+.select2-selection,
+.select2-selection--single {
+  border: 1px solid#ccc !important;
+  box-shadow : inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+  -webkit-box-shadow : inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+}
+
+
+input,
+textarea{
+  border-radius: 4px !important;
+}
+
+.input-group input{
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.input-group.date input {
+ border-radius: 0px !important;
+}
+
+
+/* profiles */
+  .user-profiles-list{
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+  }
+
+  .user-profiles-list .profiles-list-title{
+    font-weight: bold;
+  }
+
+  .x_ul{
+    padding-bottom: 0px;
+  }
+  .x_ul .nav{
+    height: 39px;
+  }
+  .x_ul ul.bar_tabs {
+    margin: 15px 0 0px;
+    border-bottom: none;
+    background-color:transparent;
+    padding-left: 0px;
+    margin-left: 0px;
+    position: absolute;
+  }
+  .x_ul ul.bar_tabs>li {
+    background-color: #F5F7FA;  
+  }
+
+  .x_ul ul.bar_tabs>li.active {
+    background-color: #fff;
+    border-bottom: 1px solid #fff;  
+  }
+
+  .x_ul ul.bar_tabs>li.active a {
+    background-color: #fff;
+  }
+
+
+/** 
+ * 
+ * Modify/Update BY PRASONG PUTICHANCHAI
+ * 
+ * Latest Update : 14/04/2018 00:34
+ * Version : v.10000
+ */
